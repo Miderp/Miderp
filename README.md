@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm M.Mido Perwira
+# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
   <img src="https://your-image-url.com/banner.gif" alt="Banner" width="600"/>
@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-A passionate developer from Indonesia
+A passionate developer from [Your Location]
 
-- 🌱 I'm currently learning **Typescript**
+- 🌱 I'm currently learning **[Technologies you're learning]**
 - 💬 Ask me about **[Your expertise]**
-- 📫 How to reach me: perwiramido@gmail.com
+- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Arsenal
@@ -70,5 +70,3 @@ A passionate developer from Indonesia
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Miderp&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
-- ⚡ Fun fact: ...
--->
