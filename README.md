@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm M.Mido Perwira
 
 <div align="center">
   <img src="https://your-image-url.com/banner.gif" alt="Banner" width="600"/>
@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-A passionate developer from [Your Location]
+A passionate developer from Indonesia
 
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🌱 I'm currently learning **Typescript**
 - 💬 Ask me about **[Your expertise]**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: perwiramido@gmail.com
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Arsenal
