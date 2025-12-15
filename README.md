@@ -51,6 +51,7 @@
 
 <br>
 
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miderp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ebf4dd&icon_color=ebf4dd&text_color=ebf4dd" alt="GitHub Stats" height="180" />
@@ -62,8 +63,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miderp&theme=react-dark&hide_border=true&bg_color=0d1117&color=ebf4dd&line=ebf4dd&point=ebf4dd" alt="Contribution Graph" />
 </div>
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Miderp/Miderp/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Miderp/Miderp/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
