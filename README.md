@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Miderp/Miderp/main/imago.gif" height="700" width="600"/>
+  <img src="https://raw.githubusercontent.com/Miderp/Miderp/main/imago.gif" height="500" width="500"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ebf4dd&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+M.Mido+Perwira" alt="Typing SVG" />
