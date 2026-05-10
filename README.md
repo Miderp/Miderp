@@ -12,7 +12,7 @@
 <h2 align="center">🛠️ Skill</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,nodejs,nextjs,vue,tailwind,mysql,react&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,nodejs,nextjs,vue,tailwind,mysql,react,express,ts,&perline=6" />
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 <h2 align="center">🎓 Learning To-Do</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=express,ts,rust,go,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=rust,go,mongodb&perline=6" />
 </div>
 
 <br>
